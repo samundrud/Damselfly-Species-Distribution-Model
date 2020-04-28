@@ -1,0 +1,64 @@
+[general]
+creator=R package 'raster'
+created=2015-04-30 12:21:37
+
+[georeference]
+nrows=2040
+ncols=1920
+xmin=-114.99999996
+ymin=-45
+xmax=-34.99999932
+ymax=40.00000068
+projection=NA
+
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=0
+maxvalue=1
+nodatavalue=-3.4e+38
+
+[description]
+layername=layer
+history=
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=0
+Label1=
+Color2=255
+Value2=1
+Label2=
+
+[Legend]
+Count=5
+Color1=32768
+Min1=0
+Max1=0.2
+Label1=0.000 - 0.200
+Color2=65280
+Min2=0.2
+Max2=0.4
+Label2=0.200 - 0.400
+Color3=65535
+Min3=0.4
+Max3=0.6
+Label3=0.400 - 0.600
+Color4=38655
+Min4=0.6
+Max4=0.8
+Label4=0.600 - 0.800
+Color5=255
+Min5=0.8
+Max5=1
+Label5=0.800 - 1.000
+Transparent=0
+NoDataColor=0
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+

@@ -1,0 +1,68 @@
+[General]
+Creator=DIVA-GIS
+Created=20150605
+Title=bfbrpa
+
+[GeoReference]
+Projection=
+Datum=
+Mapunits=
+Columns=1920
+Rows=2040
+MinX=-115
+MaxX=-35
+MinY=-45
+MaxY=40
+ResolutionX=0.0416666666666667
+ResolutionY=0.0416666666666667
+
+[Data]
+DataType=FLT4S
+MinValue=0
+MaxValue=1
+NoDataValue=-3.4E38
+Transparent=0
+Units=
+
+[Application]
+Opt0=Procedure: Overlay - Maximum
+Opt1=First input grid: c:\users\martin\desktop\pearson approach\b fernandezianum paetss.grd
+Opt2=Second input grid: c:\users\martin\desktop\pearson approach\bromeliagron rehni paetss.grd
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=0
+Label1=
+Color2=255
+Value2=1
+Label2=
+
+[Legend]
+Count=5
+Color1=32768
+Min1=0
+Max1=0.2
+Label1=0.000 - 0.200
+Color2=65280
+Min2=0.2
+Max2=0.4
+Label2=0.200 - 0.400
+Color3=65535
+Min3=0.4
+Max3=0.6
+Label3=0.400 - 0.600
+Color4=38655
+Min4=0.6
+Max4=0.8
+Label4=0.600 - 0.800
+Color5=255
+Min5=0.8
+Max5=1
+Label5=0.800 - 1.000
+Transparent=0
+NoDataColor=0
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+

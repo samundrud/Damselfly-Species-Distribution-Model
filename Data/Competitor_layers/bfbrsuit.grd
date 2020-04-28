@@ -1,0 +1,68 @@
+[General]
+Creator=DIVA-GIS
+Created=20150605
+Title=bfbrsuit
+
+[GeoReference]
+Projection=
+Datum=
+Mapunits=
+Columns=1920
+Rows=2040
+MinX=-115.000000000002
+MaxX=-35.0000000000017
+MinY=-45.0000000000011
+MaxY=39.9999999999992
+ResolutionX=0.0416666666666668
+ResolutionY=0.0416666666666668
+
+[Data]
+DataType=FLT4S
+MinValue=3.98939988599523E-7
+MaxValue=0.94889098405838
+NoDataValue=-3.4E38
+Transparent=0
+Units=
+
+[Application]
+Opt0=Procedure: Overlay - Maximum
+Opt1=First input grid: c:\users\martin\desktop\pearson approach\bromeliagron_fernandezianum_avg.grd
+Opt2=Second input grid: c:\users\martin\desktop\pearson approach\bromeliagron_rehni_avg.grd
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=3.98939988599523E-7
+Label1=
+Color2=255
+Value2=0.94889098405838
+Label2=
+
+[Legend]
+Count=5
+Color1=32768
+Min1=0
+Max1=0.1898
+Label1=0.0000 - 0.1898
+Color2=65280
+Min2=0.1898
+Max2=0.3796
+Label2=0.1898 - 0.3796
+Color3=65535
+Min3=0.3796
+Max3=0.5693
+Label3=0.3796 - 0.5693
+Color4=38655
+Min4=0.5693
+Max4=0.7591
+Label4=0.5693 - 0.7591
+Color5=255
+Min5=0.7591
+Max5=1
+Label5=0.7591 - 1.0000
+Transparent=0
+NoDataColor=0
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+
